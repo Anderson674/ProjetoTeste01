@@ -1,7 +1,8 @@
 print('seja bem vindo')
 press = input ('Aperte qualquer tecla para continuar')
 
-print('Digite seu nome')
-nome = input
+
+nome = input ('Digite seu nome: ')
+
 
 print('Bem Vindo!', nome)
